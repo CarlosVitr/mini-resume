@@ -1,6 +1,7 @@
 ---
 
 # Currículo📄
+
 <h1 align="center"> Nome Completo <h1>
 <h4 align="center">
 Nacionalidade <br>
