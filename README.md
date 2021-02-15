@@ -1,14 +1,14 @@
 ---
 
-# Currículo📄
+<h1 align="center">  Currículo📄 </h1>
 
-<h1 align="center"> Nome Completo <h1>
-<h4 align="center">
+<h1> Nome Completo </h1>
+<h4>
 Nacionalidade <br>
 Cidade,UF <br>
 Telefone <br>
 Email <br>
-<h4>
+</h4>
 
 Todos CENTRALIZADOS
 ---
