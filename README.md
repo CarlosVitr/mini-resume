@@ -10,7 +10,6 @@ Telefone <br>
 Email <br>
 </h4>
 
-Todos CENTRALIZADOS
 ---
 
 ## Objetivos
