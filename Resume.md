@@ -1,11 +1,14 @@
 ---
  <h1 align = "center"> Curriculum📄 </h1>
  <h1> Full Name </h1>
- <h4> Nationality in Cidade, UF 
+ <h4> Nationality <br>
+  City, UF 
 <br> Phone <br> 
 Email <br>
- </ h4  >
+ </h4>
+
  --- 
+
 ## Objectives
 
  - Presentation text.  
