@@ -39,4 +39,6 @@ Atuação em uma empresa (nome da empresa/cargo).
 
 - Que tipo de experiência social de ajuda e desenvolvimento você participou coloque aqui. 
 
+---
 
+Confira ele em inglês no arquivo _[Resume.md](https://github.com/CarlosVitr/mini-resume/blob/main/Resume.md)_ 
