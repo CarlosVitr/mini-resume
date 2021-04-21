@@ -26,7 +26,7 @@ Ano de inicio - Ano de conclusão.
 
 Atuação em uma empresa (nome da empresa/cargo). 
 
-## Qualificações e Atividades Completamentares
+## Qualificações e Atividades Complementares
 
 - Experiência recebida através dos certificados. 
 - Colocar os certificados. 
